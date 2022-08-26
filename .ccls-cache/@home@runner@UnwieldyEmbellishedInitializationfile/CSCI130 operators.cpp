@@ -15,4 +15,8 @@ int main() {
   double e;
   d = a / b + c;
   e = a / b + c;
+  //testing character types
+  char letter1;
+  letter1 = 'g';
+  cout << "letter1 = g" << letter1 << endl;
 }
